@@ -37,8 +37,3 @@ The project consists of two parts:
 * **Top Plot:** Capacitor Voltage ($V_c$) as it charges over time toward the steady-state source voltage.
 * **Bottom Plot:** Circuit Current ($i$) as it peaks and eventually decays to zero once the capacitor is fully charged.
 
-
-
----
-
-To help you visualize how changing your resistor, inductor, or capacitor values affects the damping and speed of this circuit, I've generated an interactive simulator below. Notice what happens to the current when you drastically lower the capacitance!
